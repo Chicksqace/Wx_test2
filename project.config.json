@@ -1,0 +1,84 @@
+{
+    "description": "项目配置文件",
+    "packOptions": {
+        "ignore": [],
+        "include": []
+    },
+    "setting": {
+        "urlCheck": false,
+        "es6": true,
+        "postcss": true,
+        "minified": true,
+        "newFeature": true,
+        "coverView": true,
+        "autoAudits": false,
+        "showShadowRootInWxmlPanel": true,
+        "scopeDataCheck": false,
+        "checkInvalidKey": true,
+        "checkSiteMap": true,
+        "uploadWithSourceMap": true,
+        "babelSetting": {
+            "ignore": [],
+            "disablePlugins": [],
+            "outputPath": ""
+        }
+    },
+    "compileType": "miniprogram",
+    "libVersion": "2.10.3",
+    "appid": "wxa155ac94f8fc996e",
+    "projectname": "demo",
+    "simulatorType": "wechat",
+    "simulatorPluginLibVersion": {},
+    "condition": {
+        "miniprogram": {
+            "list": [
+                {
+                    "name": "pages/scroll-view/scroll-view",
+                    "pathName": "pages/scroll-view/scroll-view",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/scroll-view2/scroll-view2",
+                    "pathName": "pages/scroll-view2/scroll-view2",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/swiper/swiper",
+                    "pathName": "pages/swiper/swiper",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/swiper2/swiper2",
+                    "pathName": "pages/swiper2/swiper2",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/movable-view/movable-view",
+                    "pathName": "pages/movable-view/movable-view",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/cover-view/cover-view",
+                    "pathName": "pages/cover-view/cover-view",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/canvas/canvas",
+                    "pathName": "pages/canvas/canvas",
+                    "query": "",
+                    "scene": null
+                }
+            ]
+        }
+    },
+    "editorSetting": {
+        "tabIndent": "insertSpaces",
+        "tabSize": 4
+    }
+}

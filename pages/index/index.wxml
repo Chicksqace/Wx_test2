@@ -1,0 +1,171 @@
+<view class="item">
+  <navigator url="../request/request" open-type="navigate" hover-class="navigator-hover">请求服务器数据API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../uploadFile/uploadFile" open-type="navigate" hover-class="navigator-hover">wx.uploadFile文件上传API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../downloadFile/downloadFile" open-type="navigate" hover-class="navigator-hover">wx.downloadFile文件下载API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../WebSocket/WebSocket" open-type="navigate" hover-class="navigator-hover">WebSocket会话API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../chooseImage/chooseImage" open-type="navigate" hover-class="navigator-hover">wx.chooseImage选择图片API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../previewImage/previewImage" open-type="navigate" hover-class="navigator-hover">wx.previewImage预览图片API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../getImageInfo/getImageInfo" open-type="navigate" hover-class="navigator-hover">wx.getImageInfo获得图片信息API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../saveImageToPhotosAlbum/saveImageToPhotosAlbum" open-type="navigate" hover-class="navigator-hover">wx.saveImageToPhotosAlbum保存图片到相册API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../compressImage/compressImage" open-type="navigate" hover-class="navigator-hover">wx.compressImage压缩图片API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../chooseMessageFile/chooseMessageFile" open-type="navigate" hover-class="navigator-hover">wx.chooseMessageFile从客户端会话选择文件API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../saveFile/saveFile" open-type="navigate" hover-class="navigator-hover">wx.saveFile保存文件到本地API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../getSavedFileList/getSavedFileList" open-type="navigate" hover-class="navigator-hover">wx.getSavedFileList获取本地文件列表API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../getSavedFileInfo/getSavedFileInfo" open-type="navigate" hover-class="navigator-hover">wx.getSavedFileInfo获取本地文件信息API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../removeSavedFile/removeSavedFile" open-type="navigate" hover-class="navigator-hover">wx.removeSavedFile删除本地文件API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../openDocument/openDocument" open-type="navigate" hover-class="navigator-hover">wx.openDocument打开文档API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../getFileInfo/getFileInfo" open-type="navigate" hover-class="navigator-hover">wx.getFileInfo获取文件信息API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../setStorage/setStorage" open-type="navigate" hover-class="navigator-hover">wx.setStorage数据缓存到本地API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../getStorage/getStorage" open-type="navigate" hover-class="navigator-hover">wx.getStorage获取本地缓存数据API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../clearStorage/clearStorage" open-type="navigate" hover-class="navigator-hover">wx.clearStorage移除和清理本地缓存数据API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../getLocation/getLocation" open-type="navigate" hover-class="navigator-hover">wx.getLocation获得当前位置API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../chooseLocation/chooseLocation" open-type="navigate" hover-class="navigator-hover">wx.chooseLocation选择位置API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../openLocation/openLocation" open-type="navigate" hover-class="navigator-hover">wx.openLocation打开位置API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../createMapContext/createMapContext" open-type="navigate" hover-class="navigator-hover">地图组件控制API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../address/address" open-type="navigate" hover-class="navigator-hover">收货地址API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../getSystemInfo/getSystemInfo" open-type="navigate" hover-class="navigator-hover">wx.getSystemInfo获取系统信息API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../getNetworkType/getNetworkType" open-type="navigate" hover-class="navigator-hover">wx.getNetworkType获取网络状态API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../onAccelerometerChange/onAccelerometerChange" open-type="navigate" hover-class="navigator-hover">加速度计API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../compass/compass" open-type="navigate" hover-class="navigator-hover">罗盘API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../makePhoneCall/makePhoneCall" open-type="navigate" hover-class="navigator-hover">wx.makePhoneCall拨打电话API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../scanCode/scanCode" open-type="navigate" hover-class="navigator-hover">wx.scanCode扫码API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../clipboard/clipboard" open-type="navigate" hover-class="navigator-hover">剪贴板API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../bluetooth/bluetooth" open-type="navigate" hover-class="navigator-hover">蓝牙API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../capture/capture" open-type="navigate" hover-class="navigator-hover">截屏API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../addPhoneContact/addPhoneContact" open-type="navigate" hover-class="navigator-hover">手机联系人API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../toast/toast" open-type="navigate" hover-class="navigator-hover">消息提示框API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../modal/modal" open-type="navigate" hover-class="navigator-hover">模态弹窗API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../ActionSheet/ActionSheet" open-type="navigate" hover-class="navigator-hover">操作菜单API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../login/login" open-type="navigate" hover-class="navigator-hover">wx.login登录API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../getUserInfo/getUserInfo" open-type="navigate" hover-class="navigator-hover">wx.getUserInfo获取用户信息API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../authorize/authorize" open-type="navigate" hover-class="navigator-hover">wx.authorize授权API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../setting/setting" open-type="navigate" hover-class="navigator-hover">设置API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../payment/payment" open-type="navigate" hover-class="navigator-hover">wx.requestPayment微信支付API</navigator>
+</view>
+
+<view class="item">
+  <navigator url="../onShareAppMessage/onShareAppMessage" open-type="navigate" hover-class="navigator-hover">分享API</navigator>
+</view>

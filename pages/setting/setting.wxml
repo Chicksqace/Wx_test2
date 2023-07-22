@@ -1,0 +1,5 @@
+<!--方法1：使用 button 组件来使用此功能-->
+<button open-type="openSetting" bindopensetting='handler'>点击授权并获取位置信息</button>
+
+<!--方法2：由点击行为触发wx.openSetting接口的调用-->
+<button bindtap="settingBtn">打开设置页</button>

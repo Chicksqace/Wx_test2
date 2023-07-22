@@ -1,0 +1,60 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/request/request",
+    "pages/uploadFile/uploadFile",
+    "pages/downloadFile/downloadFile",
+    "pages/WebSocket/WebSocket",
+    "pages/chooseImage/chooseImage",
+    "pages/previewImage/previewImage",
+    "pages/getImageInfo/getImageInfo",
+    "pages/saveImageToPhotosAlbum/saveImageToPhotosAlbum",
+    "pages/compressImage/compressImage",
+    "pages/chooseMessageFile/chooseMessageFile",
+    "pages/saveFile/saveFile",
+    "pages/getSavedFileList/getSavedFileList",
+    "pages/getSavedFileInfo/getSavedFileInfo",
+    "pages/removeSavedFile/removeSavedFile",
+    "pages/openDocument/openDocument",
+    "pages/getFileInfo/getFileInfo",
+    "pages/setStorage/setStorage",
+    "pages/getStorage/getStorage",
+    "pages/clearStorage/clearStorage",
+    "pages/getLocation/getLocation",
+    "pages/chooseLocation/chooseLocation",
+    "pages/openLocation/openLocation",
+    "pages/createMapContext/createMapContext",
+    "pages/address/address",
+    "pages/getSystemInfo/getSystemInfo",
+    "pages/getNetworkType/getNetworkType",
+    "pages/onAccelerometerChange/onAccelerometerChange",
+    "pages/compass/compass",
+    "pages/makePhoneCall/makePhoneCall",
+    "pages/scanCode/scanCode",
+    "pages/clipboard/clipboard",
+    "pages/bluetooth/bluetooth",
+    "pages/capture/capture",
+    "pages/addPhoneContact/addPhoneContact",
+    "pages/toast/toast",
+    "pages/modal/modal",
+    "pages/ActionSheet/ActionSheet",
+    "pages/login/login",
+    "pages/getUserInfo/getUserInfo",
+    "pages/authorize/authorize",
+    "pages/setting/setting",
+    "pages/payment/payment",
+    "pages/onShareAppMessage/onShareAppMessage"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#008B00",
+    "navigationBarTitleText": "演示",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json",
+  "permission": {
+    "scope.userLocation": {
+      "desc": "点击确定按钮来获取地理位置"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+.item{
+  border: 1px solid #E8E8E8;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #E8E8E8;
+  color: #008B00;
+}
